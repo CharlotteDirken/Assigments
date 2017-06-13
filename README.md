@@ -9,3 +9,6 @@
 [Assignment WEEK6](https://github.com/CharlotteDirken/Assignments/blob/master/assignment4.ipynb)
 
 [Assignment WEEK8](https://github.com/CharlotteDirken/Assignments/blob/master/assignment5.ipynb)
+
+[Exam Python](https://github.com/CharlotteDirken/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
