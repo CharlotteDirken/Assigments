@@ -12,3 +12,4 @@
 
 [Exam Python](https://github.com/CharlotteDirken/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
+[Exam R](https://github.com/CharlotteDirken/Assignments/blob/master/OECD_R_exam.ipynb)
